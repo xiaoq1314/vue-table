@@ -1,21 +1,37 @@
+# 说明
 # swiper_table
 
+
+>  非常简单的一个vue2的移动端滑动组件，整个流程很简单。
+
+>  如果对您有帮助，您可以点右上角 "Star" 支持一下 谢谢！ ^_^
+
+>  如有问题请直接在 Issues 中提，或者您发现问题并有非常好的解决方案，欢迎 PR 👍
+
+>  这个项目主要是在自己工作开发中遇到的问题，移动端指标太多时候，模仿表格写不小，网上也没有相关的，就自己写的
 > huqiang
 
-## Build Setup
 
-``` bash
-# install dependencies
+
+
+## 项目运行
+
+# 进入文件夹
+cd vue-table
+
+# 安装依赖
 npm install
 
-# serve with hot reload at localhost:8080
+# 开启本地服务器localhost:8088
 npm run dev
 
-# build for production with minification
+# 发布环境
 npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
 
+#最终效果
+![image](https://github.com/xiaoq1314/vue-table/static/img/table.gif)
+
+
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
