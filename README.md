@@ -30,6 +30,6 @@ npm run build
 ```
 
 #最终效果
-![image](https://github.com/xiaoq1314/vue-table/static/img/table.gif)
+![image](https://github.com/xiaoq1314/vue-table/tree/master/static/img/table.gif)
 
 
