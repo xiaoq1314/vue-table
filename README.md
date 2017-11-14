@@ -22,7 +22,7 @@ cd vue-table
 # 安装依赖
 npm install
 
-# 开启本地服务器localhost:8088
+# 开启本地服务器
 npm run dev
 
 # 发布环境
@@ -32,6 +32,4 @@ npm run build
 #最终效果
 ![image](https://github.com/xiaoq1314/vue-table/static/img/table.gif)
 
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
