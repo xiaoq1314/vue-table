@@ -29,7 +29,7 @@ npm run dev
 npm run build
 
 #最终效果
-![image](https://github.com/xiaoq1314/vue-table/blog/master/static/img/table.gif)
+![image](https://github.com/xiaoq1314/vue-table/blob/master/static/img/table.gif)
 
 
 
