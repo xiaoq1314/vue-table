@@ -27,7 +27,6 @@ npm run dev
 
 # 发布环境
 npm run build
-```
 
 #最终效果
 ![image](https://github.com/xiaoq1314/vue-table/blog/master/static/img/table.gif)
